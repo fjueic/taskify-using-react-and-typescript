@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b984e4d.css",
-    "main.js": "/static/js/main.fae6ce07.js",
-    "index.html": "/index.html",
-    "main.5b984e4d.css.map": "/static/css/main.5b984e4d.css.map",
-    "main.fae6ce07.js.map": "/static/js/main.fae6ce07.js.map"
+    "main.css": "/taskify-using-react-and-typescript/static/css/main.5b984e4d.css",
+    "main.js": "/taskify-using-react-and-typescript/static/js/main.fae6ce07.js",
+    "index.html": "/taskify-using-react-and-typescript/index.html",
+    "main.5b984e4d.css.map": "/taskify-using-react-and-typescript/static/css/main.5b984e4d.css.map",
+    "main.fae6ce07.js.map": "/taskify-using-react-and-typescript/static/js/main.fae6ce07.js.map"
   },
   "entrypoints": [
     "static/css/main.5b984e4d.css",
